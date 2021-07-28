@@ -255,36 +255,3 @@ while(flag == True):
         else:
             flag=False
             print(botID + goodbyeResponse)
-        
-    # print(botID + normalResponse)
-    # user_response = input(">>>")
-    
-    # user_response=user_response.lower()
-    # # nidorans hae different entries depending on if they are male or female
-    # if(user_response == "nidoran"):
-    #     while(user_response == "nidoran"):
-    #         print("\nDid you mean the male or female Nidoran(please enter a noun meaning male or female)")
-    #         word = input().lower()
-    #         if(word in male_noun):
-    #             user_response = "male nidoran"
-    #         elif(word in female_noun):
-    #             user_response = "female nidoran"
-    #         elif(word in nvm_word):
-    #             user_response = word
-    # if(user_response in nvm_word):
-    #     continue            
-    # if user_response not in goodbyes:
-    #     if user_response in thanks:
-    #         flag=False
-    #         print(botID + welcomeResponse)
-    #     else:
-    #         if(greeting(user_response)!=None):
-    #             print(botID + greeting(user_response))
-    #         else:
-    #             sent_tokens.append(user_response)
-    #             print(botID ,end="")
-    #             print(response(user_response))
-    #             sent_tokens.remove(user_response)
-    # else:
-    #     flag=False
-    #     print(botID + goodbyeResponse)
