@@ -1,0 +1,17 @@
+Fire@
+Water@
+Grass@
+Fairy@
+Electric@
+Ground@
+Ghost@
+Normal@
+Flying@
+Poison@
+Bug@
+Psychic@
+Fighting@
+Rock@
+Steel@
+Ice@
+Dragon@

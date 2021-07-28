@@ -1,0 +1,33 @@
+fire: Charmander, Charmeleon,Charizard, Vulpix, Ninetales, Growlithe, Arcanine, Ponyta, Rapidash, Magmar, Flareon, Moltres@
+
+water: Squirtle, Wartortle, Blastoise, Horsea, Seadra, Psyduck, Golduck, Poliwag, Poliwhirl, Poliwrath, Tentacool, Tentacruel, Slowpoke, Slowbro, Seel, Dewgong, Shellder, Cloyster, Krabby, Kingler, Goldeen, Seaking, Staryu, Starmie, Magikarp, Gyarados, Lapras, Vaporeon, Omanyte, Omastar, Kabuto, Kabutops@
+
+grass: Bulbasaur, Ivysaur, Venusaur, Oddish, Gloom, Vileplume, Paras, Parasect, Bellsprout, Weepinbell, Victreebel, Exeggcute, Exeggutor, Tangela@
+
+fairy: Clefairy, Clefable, Jigglypuff, Wigglytuff, mr.Mime@
+
+electric: Pikachu, Raichu, Magnemite, Magneton, Voltorb, Electrode, Electabuzz, Jolteon, Zapdos@
+
+ground: Sandshrew, Sandslash, Nidoking, Nidoqueen, Diglett, Dugtrio, Geodude, Graveler, Golem, Onix, Cubone, Marowak, Rhyhorn, Rhydon@
+
+ghost: Gastly, Haunter, Gengar@
+
+normal: Pidgey, Pidgeot, Pidgeotto, Rattata, Raticate, Spearow, Fearow, Jigglypuff, Wigglytuff, Meowth, Persian, Farfetch'd, Doduo, Dodrio, Lickitung, Chansey, Kangaskhan, Tauros, Ditto, Eevee, Porygon, Snorlax@
+
+flying: Charizard, Butterfree, Pidgey, Pidgeot, Pidgeotto, Spearow, Fearow, Zubat, Golbat, Farfetch'd, Doduo, Dodrio, Scyther,  Gyarados, Aerodactyl, Articuno, Zapdos, Moltres@
+
+poison: Bulbasaur, Ivysaur, Venusaur, Weedle, Kakuna, Beedrill,Ekans, Arbok,Nidoran(male), Nidorino, Nidoking, Nidoran(female), Nidorina, Nidoqueen, Zubat, Golbat, Oddish, Gloom, Vileplume, Venonat, Venomoth, Bellsprout, Weepinbell, Victreebel, Tentacool, Tentacruel, Grimer, Muk, Gastly, Haunter, Gengar, Koffing, Weezing@
+
+bug: Caterpie, Metapod, Butterfree, Weedle, Kakuna, Beedrill, Paras, Parasect, Venonat, Venomoth, Scyther, Pinsir@
+
+psychic: Mew, Mewtwo, Abra, Kadabra, Alakazam, Slowpoke, Slowbro, Drowzee, Hypno, Exeggcute, Exeggutor, Starmie, Mr.Mime, Jynx@
+
+fighting: Mankey, Primeape, Machop, Machoke, Machamp, Hitmonlee, Hitmonchan@
+
+rock: Geodude, Graveler, Golem, Onix, Rhyhorn, Rhydon, Omanyte, Omastar, Kabuto, Kabutops, Aerodactyl@
+
+steel: Magnemite, Magneton@
+
+ice: Dewgong, Cloyster, Jynx, Lapras, Articuno@
+
+dragon: Dratini, Dragonair, Dragonite@
